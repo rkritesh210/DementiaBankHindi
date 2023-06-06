@@ -1,4 +1,4 @@
-# DementiBankHindi
+# DementiaBankHindi
 This repository contains the data and code for the paper "Breaking Barriers: Exploring the Diagnostic Potential of Speech
 Narratives in Hindi for Alzheimer’s Diseaset", accepted for publication at the 2023 Clinical NLP Workshop, Conference on Association for Computational Linguistics(ACL).
 
