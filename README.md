@@ -15,6 +15,7 @@ If you decide to use this dataset please cite the following paper.
 [Breaking Barriers: Exploring the Diagnostic Potential of Speech
 Narratives in Hindi for Alzheimer’s Disease](https://aclanthology.org/2023.clinicalnlp-1.4/)
 
+```bibtex
 @inproceedings{rauniyar2023breaking,
   title={Breaking Barriers: Exploring the Diagnostic Potential of Speech Narratives in Hindi for Alzheimer’s Disease},
   author={Rauniyar, Kritesh and Shiwakoti, Shuvam and Poudel, Sweta and Thapa, Surendrabikram and Naseem, Usman and Nasim, Mehwish},
@@ -22,4 +23,5 @@ Narratives in Hindi for Alzheimer’s Disease](https://aclanthology.org/2023.cli
   pages={24--30},
   year={2023}
 }
+```
 
